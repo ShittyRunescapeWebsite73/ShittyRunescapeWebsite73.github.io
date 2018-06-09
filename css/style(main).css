@@ -15,11 +15,9 @@ body{
 #clue-redirect-image{
     width: 150px;
     margin: 0;
-    z-index: 33333;
     position: absolute;
-    top: 40%;
-    right: -40px;
-    transform: translate(-50%, -50%);
+    top: 205px;
+    left: 1164px;
 }
 
 #homepage-redirect-image{
