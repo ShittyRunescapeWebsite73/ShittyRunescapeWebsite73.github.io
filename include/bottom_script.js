@@ -12,6 +12,7 @@ $(document).ready(function() {
     diary('boots', '249');
     diary('gloves', '248');
     diary('ring', '250');
+    diary('status', '273');
 
     function diary(placeholder, number){
         $("#diary-"+placeholder+"-1").on("click", function() {

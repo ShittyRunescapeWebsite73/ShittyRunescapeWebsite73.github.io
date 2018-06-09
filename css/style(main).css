@@ -143,7 +143,7 @@ button#screenshot:focus {
 
 .osrsName{
 	position: absolute;
-    left: 930px;
+    left: 970px;
     top: 495px;
 }
 
@@ -420,6 +420,7 @@ div#image25:before {
 }
 
 
+
 #Table_01 {
 	position: relative;
 	left:0px;
@@ -514,6 +515,22 @@ div#image25:before {
 	position:absolute;
 	left:1013px;
 	top:158px;
+	width:30px;
+	height:30px;
+}
+
+#diary-status-1, #diary-status-2, #diary-status-3, #diary-status-4 {
+	position: absolute;
+    left: 830px;
+    top: 514px;
+	width:30px;
+	height:30px;
+}
+
+#image273 {
+	position: absolute;
+    left: 830px;
+    top: 514px;
 	width:30px;
 	height:30px;
 }
