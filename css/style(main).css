@@ -198,6 +198,11 @@ button#screenshot:focus {
     top: 4px;
 }
 
+#item-22370{
+	left: 155px;
+    top: 33px;
+}
+
 #Table_01{
 	font-family: 'Runescape Chat Font Regular', Arial, Helvetica, san-serif;
 	background: url('../images/background.png');
@@ -3768,7 +3773,7 @@ body#clues_page{
 	top:573px;
 }
 
-#item-Raids2Pet {
+#item-22473 {
 	position:absolute;
 	left:1002px;
 	top:573px;
@@ -3928,9 +3933,49 @@ body#clues_page{
 	top:613px;
 }
 
+/* RAIDS 2 THEATRE OF BLOOD */
 
+#item-22489 {
+	position:absolute;
+	left:1060px;
+	top:302px;
+}
 
+#item-22491 {
+	position:absolute;
+	left:1060px;
+	top:334px;
+}
 
+#item-22493 {
+	position:absolute;
+	left:1060px;
+	top:366px;
+}
+
+#item-22484 {
+	position:absolute;
+	left:1060px;
+	top:398px;
+}
+
+#item-22476 {
+	position:absolute;
+	left:1060px;
+	top:430px;
+}
+
+#item-22485 {
+	position:absolute;
+	left:1100px;
+	top:302px;
+}
+
+#item-22480 {
+	position:absolute;
+	left:1100px;
+	top:334px;
+}
 
 
 
